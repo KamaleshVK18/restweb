@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:6/12/2024
+## Date:17/12/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -142,7 +142,6 @@ index.html
 </html>
 
 administration.html
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -270,13 +269,22 @@ administration.html
                 <p>FINANCE MANAGER</p>
                 <p>EMAIL:PEP@gmail.com</p>
             </div>
+            <div class="admin-card">
+                <img src="admin6.jpg" alt="Admin 6">
+                <h3>LIONEL MESSI</h3>
+                <p>PUBLIC RELATIONS OFFICER</p>
+                <p>EMAIL:LEO@gmail.com</p>
+            </div>
         </div>
     </div>
 </body>
+<!-- Footer Section -->
+<footer>
+    <p>&copy; DESIGNED BY: V KAMALESH VIJAYAKUMAR</p>
+</footer>
 </html>
 
 menu.html
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -324,41 +332,95 @@ menu.html
         <tr>
             <td><img src="f1.jpg" alt="Food Item 1"></td>
             <td>
-                <h3>1.PASTA BOLOGNESE</h3>
+                <h3>1. PASTA BOLOGNESE</h3>
                 <p>Italian style pasta with fresh herbs and special Italian-styled sauce.</p>
             </td>
         </tr>
         <tr>
             <td><img src="f2.jpg" alt="Food Item 2"></td>
             <td>
-                <h3>2.PIZZA</h3>
+                <h3>2. PIZZA</h3>
                 <p>Authentic Italian style pasta with Margherita sauce and fresh basil leaves.</p>
             </td>
         </tr>
         <tr>
             <td><img src="f3.jpg" alt="Food Item 3"></td>
             <td>
-                <h3>3.FISH 'N' CHIPS</h3>
-                <p>English styled fish and chips with tartar sauce</p>
+                <h3>3. FISH 'N' CHIPS</h3>
+                <p>English styled fish and chips with tartar sauce.</p>
             </td>
         </tr>
         <tr>
             <td><img src="f4.jpg" alt="Food Item 4"></td>
             <td>
-                <h3>4.CAESAR SALAD</h3>
+                <h3>4. CAESAR SALAD</h3>
                 <p>Crisp lettuce with creamy Caesar dressing.</p>
             </td>
         </tr>
         <tr>
             <td><img src="f5.jpg" alt="Food Item 5"></td>
             <td>
-                <h3>5.STRAWBERRY CHEESECAKE</h3>
+                <h3>5. STRAWBERRY CHEESECAKE</h3>
                 <p>Rich and creamy strawberry-flavoured cheesecake with a cracker crust.</p>
             </td>
         </tr>
+        <tr>
+            <td><img src="f6.jpg" alt="Food Item 6"></td>
+            <td>
+                <h3>6. CHICKEN TIKKA</h3>
+                <p>Juicy grilled chicken marinated in aromatic spices, served with mint chutney.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f7.jpg" alt="Food Item 7"></td>
+            <td>
+                <h3>7. SUSHI PLATTER</h3>
+                <p>Assortment of fresh sushi and sashimi served with soy sauce and wasabi.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f8.jpg" alt="Food Item 8"></td>
+            <td>
+                <h3>8. BURGER DELUXE</h3>
+                <p>Juicy chicken burger with cheese, lettuce, and special sauce on a brioche bun.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f9.jpg" alt="Food Item 9"></td>
+            <td>
+                <h3>9. PAD THAI</h3>
+                <p>Classic Thai stir-fried noodles with shrimp, peanuts, and tamarind sauce.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f10.jpg" alt="Food Item 10"></td>
+            <td>
+                <h3>10. VEGAN BOWL</h3>
+                <p>Fresh vegetables, quinoa, and a zesty tahini dressing.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f11.jpg" alt="Food Item 11"></td>
+            <td>
+                <h3>11. CHOCOLATE FUDGE CAKE</h3>
+                <p>Decadent chocolate cake with layers of fudge and a rich ganache topping.</p>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="f12.jpg" alt="Food Item 12"></td>
+            <td>
+                <h3>12. MOJITO MOCKTAIL</h3>
+                <p>Refreshing blend of lime, mint, and sparkling soda.</p>
+            </td>
+        </tr>
     </table>
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; DESIGNED BY: V KAMALESH VIJAYAKUMAR</p>
+    </footer>
 </body>
 </html>
+
 
 contact.html
 <!DOCTYPE html>
@@ -467,8 +529,10 @@ contact.html
 
 ## OUTPUT:
 ![alt text](r1.png)
-![alt text](r2.png)
-![alt text](r3.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ![alt text](r4.png)
 
 
